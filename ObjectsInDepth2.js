@@ -276,3 +276,29 @@ console.log(data.Early[4]["Compeleted early"].CompletedProject_Project_major)
 console.log(data.Early[4]["Compeleted early"].CompletedProject_Project_medium)
 console.log(data.Early[4]["Compeleted early"].CompletedProject_Project_micor)
 console.log(data.Early[4]["Compeleted early"].CompletedProject_Project_small)
+
+// ------------------------------------------------------------------------------
+// total center text
+console.log(data.All_statuses[1].TotalProjectall)
+console.log(data["on time"][1].TotalProjectontime)
+console.log(data.Late[1].TotalProjectlate)
+console.log(data.Early[1].TotalProjectearly)
+
+// ------------------------------------------------------------------------------
+// Ontime center text
+console.log(data.All_statuses[3].ActiveProjectall)
+console.log(data["on time"][3].ActiveProjectontime)
+console.log(data.Late[3].ActiveProjectlate)
+console.log(data.Early[3].ActiveProjectearly)
+
+// ------------------------------------------------------------------------------
+// Late center text
+
+console.log(data.All_statuses[5].CompletedProjectall)
+console.log(data["on time"][5].completedProjectontime)
+console.log(data.Late[5].CompletedProjectlate)
+console.log(data.Early[5].CompletedProjectearly)
+
+//Early
+
+

@@ -5,4 +5,22 @@ const user = {
         console.log(`${this.username}, welcome to website`)
     }
 }
-console.log(user.welcomeMessage())
+// user.welcomeMessage();
+// user.username = `sam`;
+// user.welcomeMessage();
+
+// console.log(this);
+// function chai() {
+//     console.log(this)
+// }
+// chai();
+
+const chai = () =>{
+    let username = "hitesh";
+    console.log(this.username);
+}
+chai();
+
+const addTwo = (num1,num2)=> num1+ num2;
+console.log(addTwo(5,7));
+// const addTwo2 = (num1,num2)=>  username: "hituuu";

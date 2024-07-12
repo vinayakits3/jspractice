@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>vinayak ka code</title>
+  </head>
+  <body style="background-color: black; color: white"></body>
+  <script>
+    const div = document.createElement("div");
+    console.log(div);
+    div.className = "main";
+    div.id = Math.round(Math.random() * 10 + 1);
+    // ye wla set attribute
+    div.setAttribute("title", "genrate title")
+    div.style.backgroundColor = "green"
+    div.style.padding = "12px"
+    // innertext pehele values ko lekr aayega fir unko write krega
+    // div.innerText = "Palak Panner aur parantha"
+    // setAttribute ye seedha seedha set kr dega
+    const addText = document.createTextNode("Palak Paneer aur paranthe")
+    div.appendChild(addText)
+    document.body.appendChild(div)
+  </script>
+</html>

@@ -1,0 +1,142 @@
+{
+    "All_statuses": [
+        {
+            "all_total": {
+                "TotalProject_Project_major": "38",
+                "TotalProject_Project_medium": "6",
+                "TotalProject_Project_micor": "8",
+                "TotalProject_Project_small": "7"
+            }
+        },
+        {
+            "TotalProjectall": "59"
+        },
+        {
+            "all_Active": {
+                "ActiveProject_Project_major": "32",
+                "ActiveProject_Project_medium": "2",
+                "ActiveProject_Project_micor": "4",
+                "ActiveProject_Project_small": "4"
+            }
+        },
+        {
+            "ActiveProjectall": "42"
+        },
+        {
+            "all_Completed": {
+                "CompletedProject_Project_major": "6",
+                "CompletedProject_Project_status_medium": "4",
+                "CompletedProject_Project_status_micor": "4",
+                "CompletedProject_Project_status_small": "3"
+            }
+        },
+        {
+            "CompletedProjectall": "17"
+        }
+    ],
+    "on time": [
+        {
+            "All on time": {
+                "TotalProject_Project_major": "5",
+                "TotalProject_Project_medium": "2",
+                "TotalProject_Project_micor": "2",
+                "TotalProject_Project_small": "2"
+            }
+        },
+        {
+            "TotalProjectontime": "11"
+        },
+        {
+            "Active on time": {
+                "ActiveProject_Project_major": "3",
+                "ActiveProject_Project_medium": "1",
+                "ActiveProject_Project_micor": "1",
+                "ActiveProject_Project_small": "1"
+            }
+        },
+        {
+            "ActiveProjectontime": "6"
+        },
+        {
+            "Completed on time": {
+                "completedProject_Project_major": "2",
+                "completedProject_Project_medium": "1",
+                "completedProject_Project_micor": "1",
+                "completedProject_Project_small": "1"
+            }
+        },
+        {
+            "completedProjectontime": "5"
+        }
+    ],
+    "Late": [
+        {
+            "All late": {
+                "TotalProject_Project_major": "15",
+                "TotalProject_Project_medium": "2",
+                "TotalProject_Project_micor": "4",
+                "TotalProject_Project_small": "2"
+            }
+        },
+        {
+            "TotalProjectlate": "23"
+        },
+        {
+            "Active late": {
+                "ActiveProject_Project_major": "12",
+                "ActiveProject_Project_medium": "0",
+                "ActiveProject_Project_micor": "1",
+                "ActiveProject_Project_small": "1"
+            }
+        },
+        {
+            "ActiveProjectlate": "14"
+        },
+        {
+            "Completed late": {
+                "CompletedProject_Project_major": "3",
+                "CompletedProject_Project_medium": "2",
+                "CompletedProject_Project_micor": "3",
+                "CompletedProject_Project_small": "1"
+            }
+        },
+        {
+            "CompletedProjectlate": "9"
+        }
+    ],
+    "Early": [
+        {
+            "All early": {
+                "TotalProject_Project_major": "18",
+                "TotalProject_Project_medium": "2",
+                "TotalProject_Project_micor": "2",
+                "TotalProject_Project_small": "3"
+            }
+        },
+        {
+            "TotalProjectearly": "25"
+        },
+        {
+            "Active early": {
+                "ActiveProject_Project_major": "17",
+                "ActiveProject_Project_medium": "1",
+                "ActiveProject_Project_micor": "2",
+                "ActiveProject_Project_small": "2"
+            }
+        },
+        {
+            "ActiveProjectearly": "22"
+        },
+        {
+            "Compeleted early": {
+                "CompletedProject_Project_major": "1",
+                "CompletedProject_Project_medium": "1",
+                "CompletedProject_Project_micor": "0",
+                "CompletedProject_Project_small": "1"
+            }
+        },
+        {
+            "CompletedProjectearly": "3"
+        }
+    ]
+}
